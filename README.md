@@ -1,43 +1,43 @@
-# Fixed By Sibu — Editorial Hair & Makeup Artistry
+<h1 align="center">
+  🐻
+</h1>
 
-Official web portfolio and client liaison portal for Fixed by Sibu.
+<h3 align="center">
+  ─── BUILT BY ───
+</h3>
 
-## GitHub Pages Deployment
+<h1 align="center">
+  <a href="https://bearbuildsweb.co.za">
+    BearBuildsWeb
+  </a>
+</h1>
 
-The repository is pre-configured for GitHub Pages deployment.
+<p align="center">
+  🔗
+  <a href="https://bearbuildsweb.co.za">
+    https://bearbuildsweb.co.za
+  </a>
+</p>
 
-### Option 1: Automated Deployment via GitHub Actions (Recommended)
+<br>
 
-1. Push your repository to GitHub (`main` or `master` branch).
-2. On GitHub, navigate to **Settings** → **Pages**.
-3. Under **Build and deployment** > **Source**, select **GitHub Actions**.
-4. That's it! The pre-configured `.github/workflows/deploy.yml` workflow will automatically build and deploy the site on every push.
+<p align="center">
+  Booking platforms engineered for solo professionals.
+</p>
 
-### Option 2: Manual Deployment via `gh-pages`
-
-You can also deploy directly from your local terminal using the pre-configured script:
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Build and publish to the gh-pages branch
-npm run deploy
-```
-
-Then in **Settings** → **Pages**, select **Deploy from a branch** and choose `gh-pages` as the source branch with `/ (root)`.
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge" />
+</p>
 
 ---
 
-## Local Development
+<p align="center">
+  <i>"Less time in WhatsApp. More time doing what you love."</i>
+</p>
 
-```bash
-# Start local dev server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build locally
-npm run preview
-```
+<p align="center">
+  — Product of <strong>BearBuildsWeb</strong> 🐻
+</p>

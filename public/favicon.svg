@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0A0A0A" />
+  <!-- Letter F in high-contrast Didone -->
+  <path d="M18 16 H36 V21 H24 V28 H33 V33 H24 V48 H18 Z" fill="#FFFFFF" />
+  <!-- Lipstick in gold & red -->
+  <g transform="translate(38, 20)">
+    <!-- Base casing -->
+    <rect x="0" y="16" width="10" height="12" rx="1" fill="#222" stroke="#444" stroke-width="0.8" />
+    <!-- Gold ferrule -->
+    <rect x="1" y="10" width="8" height="6" fill="#D4AF37" />
+    <!-- Red lipstick bullet -->
+    <path d="M2 10 L2 4 L7 0 L8 4 L8 10 Z" fill="#E11D48" />
+  </g>
+</svg>
